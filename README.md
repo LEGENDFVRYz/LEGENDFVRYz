@@ -1,4 +1,9 @@
-### Hi there 👋
+### Greetings! Here is some information to get started. 👋
+
+- 🏫 I’m currently a student at Polytechnic University of the Philippines
+- 📖 Aspiring to become a Data Scientist
+- 📫 How to reach me: cruzsebastienlouis@gmail.com
+- ⚡ Fun fact: Interested in business, finance, and stock fields.
 
 <!--
 **LEGENDFVRYz/LEGENDFVRYz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
